@@ -4,7 +4,7 @@ Client-seitiger Auto-Klicker für Fabric mit drei Modi, automatischem Essen, eig
 Einstellungsbildschirm, HUD-Anzeige und frei belegbaren Tasten. Mehrere Minecraft-Versionen aus einer
 Codebasis, verwaltet mit [Stonecutter](https://stonecutter.kikugie.dev).
 
-Autor: **Andrin Zwicky** · Lizenz: **MIT**
+Autor: **Ovitrinker** · Lizenz: **MIT**
 
 ## Versionsmatrix
 
